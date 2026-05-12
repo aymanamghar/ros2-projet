@@ -17,3 +17,11 @@ Camera → YOLO → Gesture Recognition
            PX4 / Drone Control
                     ↓
                Gazebo Drone
+
+🚀 How the System Works :
+1-A webcam captures live video.
+2-YOLO detects and classifies hand gestures.
+3-The gesture is mapped to a drone movement command.
+4-MAVLink sends commands to the PX4 controller.
+5-The drone reacts instantly inside Gazebo.
+6-QGroundControl displays telemetry and drone state.
