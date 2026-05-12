@@ -7,3 +7,13 @@ The system integrates:
 - QGroundControl
 - YOLO hand tracking
 - Real-time drone command generation
+
+architecteur : 
+
+Camera → YOLO → Gesture Recognition
+                    ↓
+             MAVLink Commands
+                    ↓
+           PX4 / Drone Control
+                    ↓
+               Gazebo Drone
