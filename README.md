@@ -25,3 +25,5 @@ Camera → YOLO → Gesture Recognition
 4-MAVLink sends commands to the PX4 controller.
 5-The drone reacts instantly inside Gazebo.
 6-QGroundControl displays telemetry and drone state.
+
+https://github.com/aymanamghar/ros2-projet/blob/b1d784887e66ecf2e20c3412756972f1856851d5/Screenshot%20from%202026-05-12%2010-41-00.png
