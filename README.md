@@ -29,3 +29,13 @@ Camera → YOLO → Gesture Recognition
 ![image alt](https://github.com/aymanamghar/ros2-projet/blob/b1d784887e66ecf2e20c3412756972f1856851d5/Screenshot%20from%202026-05-12%2010-41-00.png)
 ![image alt](https://github.com/aymanamghar/ros2-projet/blob/b1d784887e66ecf2e20c3412756972f1856851d5/Screenshot%20from%202026-05-12%2010-41-17.png)
 ![image alt](https://github.com/aymanamghar/ros2-projet/blob/292bf089672bbbaf21d45d8464dfd7d822c9e11e/Screenshot%20from%202026-05-12%2010-42-43.png)
+
+✋ Exemples de Gestes
+
+| Geste             | Action             |
+| ----------------- | ------------------ |
+| Main vers le haut | Monter             |
+| Main vers le bas  | Descendre          |
+| Main gauche       | Déplacement gauche |
+| Main droite       | Déplacement droite |
+| Main immobile     | Hover              |
